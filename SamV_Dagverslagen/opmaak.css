@@ -28,7 +28,7 @@ nav {
     width: 170px;
     float: left;
     background-color: white;
-    height: 420px;
+    height: auto;
     border-radius: 10px;
     margin-right: 5px;
     margin-left: 10px;
